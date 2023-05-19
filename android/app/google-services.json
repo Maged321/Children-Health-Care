@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "889467871009",
+    "project_id": "childern-project",
+    "storage_bucket": "childern-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889467871009:android:2ac3305dfa905f9e8ca860",
+        "android_client_info": {
+          "package_name": "com.example.childern_health_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889467871009-17u9butu6pt0j3v32hmcobup94pub7q9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.childern_health_care",
+            "certificate_hash": "1ca8cf01137b61c6313d0965560178a8fcda9fef"
+          }
+        },
+        {
+          "client_id": "889467871009-824dh73v1l90ah2c6j3l5c4n1kqe62s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFSvJLXFkgfKs3PU2Mrms_grz1AuQ9KKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889467871009-824dh73v1l90ah2c6j3l5c4n1kqe62s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
